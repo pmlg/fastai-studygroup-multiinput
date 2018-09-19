@@ -14,5 +14,6 @@ Download the following files:
 1. https://drive.google.com/open?id=19oXlEAkcCrylZc9QvoioxaBhl-1Jtnha
 2. https://drive.google.com/open?id=1DQVXvAN_ZTM4Esy4gBKn817IiV5F0Jez
 3. https://drive.google.com/open?id=1rtyf5sZzSmmEuhwBCr8ta1WCfcYgg4Vf
-
+This project will run in google colab: https://colab.research.google.com
+If you have a google account, you can run the note book
 
